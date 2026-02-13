@@ -2,6 +2,10 @@
 
 > 画个球给自己圈了起来，隔绝所有伤害
 
+## 效果
+![dc794e5d9e1380b4f416f04ff76bfe7e](https://github.com/user-attachments/assets/cb9cfa1b-fd3b-4ca7-9809-4f12115b1da8)
+
+
 ## 安装
 
 本程序支持`python3`，你可以运行如下代码安装所需要的库
