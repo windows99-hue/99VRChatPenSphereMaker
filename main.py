@@ -33,6 +33,7 @@ def move_mouse_right():
         pydirectinput.moveRel(0, 10, relative=True)
     pydirectinput.mouseUp(button='left')
 
+
 print_good("欢迎来到99的vrchat画笔自动化生成球器")
 print_warning("请确保你已经在vrchat里拿着笔并且已经抬头准备好了")
 
