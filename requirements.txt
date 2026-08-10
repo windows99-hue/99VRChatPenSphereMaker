@@ -1,4 +1,3 @@
 pydirectinput
-threading
 pynput
 clc99
